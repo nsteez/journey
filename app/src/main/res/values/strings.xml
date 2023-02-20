@@ -10,5 +10,20 @@
 
     
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    
     <string name="giphy">Giphy</string>
+    <string name="trending">Trending</string>
+    <string name="gws_title">Giphy Web Service</string>
+    <string name="tinashe_mazaiwana">Tinashe Mazaiwana</string>
+    <string name="ellah_nzikoba">Ellah Nzikoba</string>
+    <string name="netti_welsh">Netti Welsh</string>
+    <string name="binita_shakya">Binita Shakya</string>
+    <string name="journey">Journey</string>
+    <string name="random">Random</string>
+    <string name="gift_hint">Search for a Gif</string>
+    <string name="gif_title">Gif Title</string>
+    <string name="gif_desc">Description/Username</string>
+    <string name="or">Or</string>
+    <string name="search">Search</string>
 </resources>
